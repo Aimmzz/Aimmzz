@@ -1,6 +1,6 @@
 
 <img src="https://media.suara.com/pictures/653x366/2022/10/09/72774-karakter-hu-tao-genshin-impact.webp" alt="hutao" style="max-width: 100%; max-height: 80%;">
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rohim Kurniawan
+Hi My name is Rohim Kurniawan
 =======================================================================================================================================
 
 Mobile Developer
